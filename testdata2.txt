@@ -1,0 +1,44 @@
+[
+    {
+        "ID": "P01",
+        "Title": "Miliket",
+        "Quantity": 10,
+        "Price": 5.2
+    },
+    {
+        "ID": "P03",
+        "Title": "Sugar",
+        "Quantity": 12,
+        "Price": 25.1
+    },
+    {
+        "ID": "P04",
+        "Title": "Book",
+        "Quantity": 9,
+        "Price": 5.2
+    },
+    {
+        "ID": "P05",
+        "Title": "Rose",
+        "Quantity": 7,
+        "Price": 15.4
+    },
+    {
+        "ID": "P06",
+        "Title": "Rice",
+        "Quantity": 10,
+        "Price": 3.0
+    },
+    {
+        "ID": "P08",
+        "Title": "French Fries",
+        "Quantity": 5,
+        "Price": 3.0
+    },
+    {
+        "ID": "P02",
+        "Title": "Banana",
+        "Quantity": 11,
+        "Price": 7.0
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "ID": "001",
+        "Title": "Apple",
+        "Quantity": 3,
+        "Price": 100.0
+    },
+    {
+        "ID": "004",
+        "Title": "Orange",
+        "Quantity": 4,
+        "Price": 90.0
+    },
+    {
+        "ID": "005",
+        "Title": "Jackfruit",
+        "Quantity": 5,
+        "Price": 150.0
+    },
+    {
+        "ID": "003",
+        "Title": "Avocado",
+        "Quantity": 10,
+        "Price": 70.0
+    },
+    {
+        "ID": "002",
+        "Title": "Banana",
+        "Quantity": 2,
+        "Price": 30.0
+    },
+    {
+        "ID": "006",
+        "Title": "Lemon",
+        "Quantity": 11,
+        "Price": 3.0
+    }
+]
